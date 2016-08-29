@@ -17,3 +17,5 @@ cursor.scale.x = 2;
 Cursors example:
 ![cursor example](http://fireveined.pl/img/cursor.png)
 
+More on: [fireveined.pl](http://fireveined.pl/)
+
