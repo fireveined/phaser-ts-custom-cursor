@@ -1,5 +1,5 @@
 # Phaser TypeScript Custom Cursor
-Phaser can't handle custom cursors, so if you need that feature in your game you can use this little class. It allows you to substitute both default pointer and hand pointer used when cursor is over phaser buttons. 
+Phaser can't handle custom cursors and that little class allows you to substitute both default pointer and hand pointer used when cursor is over phaser buttons. 
 
 ## How to use
 ```typescript
